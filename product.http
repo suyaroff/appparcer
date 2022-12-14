@@ -1,0 +1,15 @@
+GET /api/search/v1/products/4250724?sap_code=6857 HTTP/1.1
+Host: 5d.5ka.ru
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/4.9.3
+X-Device-Id: 9fcd5d201474437390e96d121d665e64
+X-User-Store: 6857
+X-Can-Receive-Push: true
+X-Platform: android
+X-App-Version: 4.4.0
+Format: json
+X-Manufacturer: unknown
+X-Push-Service: GMS
+X-Package-Name: ru.pyaterochka.app.browser
+Connection: close
+
