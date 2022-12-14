@@ -1,1 +1,71 @@
-{"plu":4250724,"name":"Трюфели Pergale с коньяком 200г","image":"https://photos.okolo.app/product/1480631-main/800x800.jpeg?updated_at=2022-11-03T14:28:29.935Z","available_status":true,"uom":"шт","step":"1.0","is_active":true,"is_new":false,"average_rating":null,"rates_count_in_period":0,"ingredients":"масло кокосовое, сахар, какао-порошок, сыворотка молочная сухая, коньяк «Fine Champagne» (дистиллят коньячный, вода, сахарный сироп (вода, сахар), краситель (сахарный колер I простой)), эмульгатор (лецитин соевый), ароматизатор коньяка, натуральный ароматизатор ванили.  Может содержать пшеничный глютен, арахис, орехи, яйца и продукты их переработки","stocks":26,"group_code":null,"promo":{"date_begin":null,"date_end":null,"mech":null},"prices":{"price_regular":"449.99","price_discount":"229.99","discount":"48"},"information":[{"value":"Pergale","uom":null,"name":"Бренд","order":10,"is_nutrient":false,"nutrient_name":null},{"value":"Литва","uom":null,"name":"Страна производства","order":11,"is_nutrient":false,"nutrient_name":null},{"value":"4.1","uom":"г","name":"Белки","order":12,"is_nutrient":true,"nutrient_name":"белки"},{"value":"43","uom":"г","name":"Жиры","order":13,"is_nutrient":true,"nutrient_name":"жиры"},{"value":"40","uom":"г","name":"Углеводы","order":14,"is_nutrient":true,"nutrient_name":"углеводы"},{"value":"572","uom":"ккал","name":"Энергетическая ценность","order":15,"is_nutrient":true,"nutrient_name":"ккал"}]}
+{
+  "plu": 4250724,
+  "name": "Трюфели Pergale с коньяком 200г",
+  "image": "https://photos.okolo.app/product/1480631-main/800x800.jpeg?updated_at=2022-11-03T14:28:29.935Z",
+  "available_status": true,
+  "uom": "шт",
+  "step": "1.0",
+  "is_active": true,
+  "is_new": false,
+  "average_rating": null,
+  "rates_count_in_period": 0,
+  "ingredients": "масло кокосовое, сахар, какао-порошок, сыворотка молочная сухая, коньяк «Fine Champagne» (дистиллят коньячный, вода, сахарный сироп (вода, сахар), краситель (сахарный колер I простой)), эмульгатор (лецитин соевый), ароматизатор коньяка, натуральный ароматизатор ванили.  Может содержать пшеничный глютен, арахис, орехи, яйца и продукты их переработки",
+  "stocks": 26,
+  "group_code": null,
+  "promo": { "date_begin": null, "date_end": null, "mech": null },
+  "prices": {
+    "price_regular": "449.99",
+    "price_discount": "229.99",
+    "discount": "48"
+  },
+  "information": [
+    {
+      "value": "Pergale",
+      "uom": null,
+      "name": "Бренд",
+      "order": 10,
+      "is_nutrient": false,
+      "nutrient_name": null
+    },
+    {
+      "value": "Литва",
+      "uom": null,
+      "name": "Страна производства",
+      "order": 11,
+      "is_nutrient": false,
+      "nutrient_name": null
+    },
+    {
+      "value": "4.1",
+      "uom": "г",
+      "name": "Белки",
+      "order": 12,
+      "is_nutrient": true,
+      "nutrient_name": "белки"
+    },
+    {
+      "value": "43",
+      "uom": "г",
+      "name": "Жиры",
+      "order": 13,
+      "is_nutrient": true,
+      "nutrient_name": "жиры"
+    },
+    {
+      "value": "40",
+      "uom": "г",
+      "name": "Углеводы",
+      "order": 14,
+      "is_nutrient": true,
+      "nutrient_name": "углеводы"
+    },
+    {
+      "value": "572",
+      "uom": "ккал",
+      "name": "Энергетическая ценность",
+      "order": 15,
+      "is_nutrient": true,
+      "nutrient_name": "ккал"
+    }
+  ]
+}

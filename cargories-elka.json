@@ -1,1 +1,997 @@
-[{"id":1629,"name":"Сладости под ёлку","type":"category","description":"","subtitle":null,"image":"https://media.5ka.ru/media/sap/catalogcategory/catalog_category_images/76/d1/76d12733-af31-4fc2-a526-0f37753f1cc5.png","big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#85c9ef","gradient_end":"#3674ff","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":76,"is_advert":true,"advert_disclaimer":"ООО «Агроторг»\nИНН 7825706086","advertiser_info_link":"","products":[],"preview_data":[{"id":1630,"name":"Порадуйте близких сладкими подарками","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":14,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":4167605,"name":"Шоколад Alpen Gold Oreo Нежная Клубника с клубничной начинкой и кусочками печенья 90г","image_small":"https://photos.okolo.app/product/1410914-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"125.99","price_discount":"59.99","discount":"52"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":14559},{"plu":4175312,"name":"Сладкий подарок Milka 260г","image_small":"https://photos.okolo.app/product/1411965-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"503.99","price_discount":"279.99","discount":"44"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":1240},{"plu":4167603,"name":"Шоколад Alpen Gold Черничная поляна с черничной начинкой и кусочками печенья молочный 90г","image_small":"https://photos.okolo.app/product/1410906-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"125.99","price_discount":"59.99","discount":"52"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":37011},{"plu":4167582,"name":"Пирожное Milka бисквитное с шоколадной начинкой + двухслойное с кусочками шоколада 126г","image_small":"https://photos.okolo.app/product/1411964-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"289.99","price_discount":"219.99","discount":"24"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":672},{"plu":4248919,"name":"Сладкий подарок Медвежонок Барни, Picnic, Oreo Зимнее Ассорти 272г","image_small":"https://photos.okolo.app/product/1479725-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"479.99","price_discount":"339.99","discount":"29"},"promo":null,"uom":"шт","step":"1.0","average_rating":null,"rates_count_in_period":0}]},{"id":1631,"name":"Покупай со скидками","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":20,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":3632899,"name":"Печенье Belvita Утреннее злаки-какао-йогуртовая начинка 253г","image_small":"https://photos.okolo.app/product/1183144-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"179.99","price_discount":"139.99","discount":"22"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":3079},{"plu":3612240,"name":"Жевательная резинка Dirol Colors XXL ассорти мятных вкусов без сахара 19г","image_small":"https://photos.okolo.app/product/1180039-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"49.49","price_discount":"39.99","discount":"19"},"promo":null,"uom":"шт","step":"1.0","average_rating":null,"rates_count_in_period":0},{"plu":3498891,"name":"Леденцы HALLS со вкусом меда и лимона 25г","image_small":"https://photos.okolo.app/product/1176763-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"48.99","price_discount":"39.99","discount":"18"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":16293},{"plu":3640618,"name":"Печенье Oreo с какао и начинкой шоколад 95г","image_small":"https://photos.okolo.app/product/1184502-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"84.99","price_discount":"69.99","discount":"18"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":4057},{"plu":3681277,"name":"Шоколад Milka с молочной и карамельными начинками и обжаренным цельным фундуком молочный 300г","image_small":"https://photos.okolo.app/product/1190456-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"399.99","price_discount":"299.99","discount":"25"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":8660}]},{"id":1632,"name":"Попробуй нежность на вкус с Milka","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":18,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":3689776,"name":"Шоколад Milka Sweet Winter белый и молочный в виде ёлочек 100г","image_small":"https://photos.okolo.app/product/1191863-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"197.99","price_discount":"89.99","discount":"55"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.94,"rates_count_in_period":4310},{"plu":4167582,"name":"Пирожное Milka бисквитное с шоколадной начинкой + двухслойное с кусочками шоколада 126г","image_small":"https://photos.okolo.app/product/1411964-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"289.99","price_discount":"219.99","discount":"24"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":672},{"plu":4109511,"name":"Шоколад молочный Milka с цельным миндалём 85г","image_small":"https://photos.okolo.app/product/1210439-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"104.99","price_discount":"89.99","discount":"14"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":14109},{"plu":4109510,"name":"Шоколад Milka с фундуком молочный 85г","image_small":"https://photos.okolo.app/product/1210438-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"104.99","price_discount":"89.99","discount":"14"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":3540},{"plu":4109507,"name":"Шоколад молочный Milka 85г","image_small":"https://photos.okolo.app/product/1210436-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"104.99","price_discount":"89.99","discount":"14"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":12053}]},{"id":1636,"name":"В школу с Барни","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":8,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":4248919,"name":"Сладкий подарок Медвежонок Барни, Picnic, Oreo Зимнее Ассорти 272г","image_small":"https://photos.okolo.app/product/1479725-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"479.99","price_discount":"339.99","discount":"29"},"promo":null,"uom":"шт","step":"1.0","average_rating":null,"rates_count_in_period":0},{"plu":3358963,"name":"Пирожное бисквитное Медвежонок Барни банан-йогурт 150 г","image_small":"https://photos.okolo.app/product/1166738-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"159.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":6707},{"plu":3603069,"name":"Пирожное бисквитное Медвежонок Барни вареная сгущенка 150г","image_small":"https://photos.okolo.app/product/1177919-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"159.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":5950},{"plu":4172089,"name":"Пирожное Медвежонок Барни бисквитное с апельсиновой начинкой и корицей 150г","image_small":"https://photos.okolo.app/product/1407496-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"159.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.9,"rates_count_in_period":1460},{"plu":3276703,"name":"Пирожное бисквитное Медвежонок Барни молочная начинка 150г","image_small":"https://photos.okolo.app/product/1164953-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"159.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":7880}]},{"id":1635,"name":"Попробуй разнообразие вкусов Alpen Gold","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":13,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":4053537,"name":"Шоколад Alpen Gold Max Fan молочный Манго, ананас, маракуйя, взрывная карамель, шипучие шарики  150г","image_small":"https://photos.okolo.app/product/1204707-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"159.99","price_discount":"139.99","discount":"13"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":5293},{"plu":4053597,"name":"Шоколад молочный Alpen Gold 85г","image_small":"https://photos.okolo.app/product/1204710-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"69.99","price_discount":"59.99","discount":"14"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":30956},{"plu":4167603,"name":"Шоколад Alpen Gold Черничная поляна с черничной начинкой и кусочками печенья молочный 90г","image_small":"https://photos.okolo.app/product/1410906-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"125.99","price_discount":"59.99","discount":"52"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":37011},{"plu":4167602,"name":"Шоколад Alpen Gold Max Fun Зимний ягодный микс белый 150г","image_small":"https://photos.okolo.app/product/1422873-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"233.99","price_discount":"129.99","discount":"44"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":1153},{"plu":4158032,"name":"Шоколад Alpen Gold Oreo с начинкой со вкусом ванили и кусочками печенья молочный 90г","image_small":"https://photos.okolo.app/product/1393472-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"74.99","price_discount":"64.99","discount":"13"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":5760}]},{"id":1633,"name":"Oreo и Юбилейное","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":10,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":4027701,"name":"Печенье Юбилейное молочное с глазурью 232г","image_small":"https://photos.okolo.app/product/1201992-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"119.99","price_discount":"89.99","discount":"25"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":14655},{"plu":3640618,"name":"Печенье Oreo с какао и начинкой шоколад 95г","image_small":"https://photos.okolo.app/product/1184502-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"84.99","price_discount":"69.99","discount":"18"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":4057},{"plu":4246933,"name":"Сладкий подарок Oreo Ассорти печенья Шоколад, клубника, оригинальное 190г","image_small":"https://photos.okolo.app/product/1479721-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"229.99","price_discount":"169.99","discount":"26"},"promo":null,"uom":"шт","step":"1.0","average_rating":null,"rates_count_in_period":0},{"plu":4102088,"name":"Мини-кексы Юбилейное с кусочками молочного шоколада 140г","image_small":"https://photos.okolo.app/product/1209500-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"129.99","price_discount":"109.99","discount":"15"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":7105},{"plu":3472180,"name":"Печенье Юбилейное молочное витаминизированное с глазурью 116г","image_small":"https://photos.okolo.app/product/1174816-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"63.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":11508}]},{"id":1637,"name":"Возьми с собой Picnic и Tuc","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":5,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":3442578,"name":"Батончик Picnic BIg с арахисом и изюмом 76г","image_small":"https://photos.okolo.app/product/1172455-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"77.99","price_discount":"44.9","discount":"42"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":113477},{"plu":3490862,"name":"Крекер Tuc со вкусом пиццы, 100г","image_small":"https://photos.okolo.app/product/1176255-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"83.49","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.9,"rates_count_in_period":12594},{"plu":3329546,"name":"Крекер Tuc Original с солью 100г","image_small":"https://photos.okolo.app/product/1165768-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"71.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.9,"rates_count_in_period":2210},{"plu":3400349,"name":"Крекер Tuc со сметаной и луком, 100г","image_small":"https://photos.okolo.app/product/1168844-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"71.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":18892},{"plu":3419777,"name":"Батончик шоколадный Picnic грецкий орех, 52г","image_small":"https://photos.okolo.app/product/1170222-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"58.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":14291}]},{"id":1634,"name":"Здоровый перекус с Belvita","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":4,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":3632839,"name":"Печенье Belvita Утреннее злаки-йогуртовая начинка, 253г","image_small":"https://photos.okolo.app/product/1183139-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"185.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":6759},{"plu":3632837,"name":"Печенье Belvita Утреннее витаминизированное фундук-мёд, 225г","image_small":"https://photos.okolo.app/product/1183137-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"129.99","price_discount":null,"discount":null},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":4404},{"plu":3632899,"name":"Печенье Belvita Утреннее злаки-какао-йогуртовая начинка 253г","image_small":"https://photos.okolo.app/product/1183144-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"179.99","price_discount":"139.99","discount":"22"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":3079},{"plu":3632838,"name":"Печенье Belvita Утреннее витаминизированное со злаковыми хлопьями, 225г","image_small":"https://photos.okolo.app/product/1183138-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"139.99","price_discount":"109.99","discount":"21"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.93,"rates_count_in_period":7941}]},{"id":1638,"name":"Освежись с Dirol и Halls","type":"category","description":"","subtitle":null,"image":null,"big_image_320":null,"big_image_768":null,"big_image_1280":null,"web_image":null,"web_image_back":null,"minimum_rates_count_web":null,"minimum_rates_count_mobile":null,"top_products_number_web":null,"top_products_number_mobile":null,"gradient_start":"#F6726A","gradient_end":"#C64E46","code":"","title_color":"#000000","start_at":null,"end_at":null,"products_count":13,"is_advert":null,"advert_disclaimer":null,"advertiser_info_link":null,"products":[{"plu":3641933,"name":"Жевательная резинка Dirol White Мята 13.6г","image_small":"https://photos.okolo.app/product/1184757-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"35.19","price_discount":"29.99","discount":"15"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":13375},{"plu":3680626,"name":"Конфеты HALLS Mini Mints со вкусом мяты 12.5г","image_small":"https://photos.okolo.app/product/1190333-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"48.99","price_discount":"34.99","discount":"29"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":7838},{"plu":3498787,"name":"Жевательная резинка Dirol X-Fresh Ледяной мандарин без сахара 16г","image_small":"https://photos.okolo.app/product/1176762-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"49.49","price_discount":"39.99","discount":"19"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":9659},{"plu":3257582,"name":"Жевательная резинка Dirol Мята без сахара 13.6г","image_small":"https://photos.okolo.app/product/1164582-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"35.19","price_discount":"29.99","discount":"15"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.92,"rates_count_in_period":11946},{"plu":3498786,"name":"Жевательная резинка Dirol X-Fresh Арбузный лёд без сахара 16г","image_small":"https://photos.okolo.app/product/1176761-main/320x320.jpeg","is_new":false,"prices":{"price_regular":"49.49","price_discount":"39.99","discount":"19"},"promo":null,"uom":"шт","step":"1.0","average_rating":4.91,"rates_count_in_period":11121}]}]}]
+[
+  {
+    "id": 1629,
+    "name": "Сладости под ёлку",
+    "type": "category",
+    "description": "",
+    "subtitle": null,
+    "image": "https://media.5ka.ru/media/sap/catalogcategory/catalog_category_images/76/d1/76d12733-af31-4fc2-a526-0f37753f1cc5.png",
+    "big_image_320": null,
+    "big_image_768": null,
+    "big_image_1280": null,
+    "web_image": null,
+    "web_image_back": null,
+    "minimum_rates_count_web": null,
+    "minimum_rates_count_mobile": null,
+    "top_products_number_web": null,
+    "top_products_number_mobile": null,
+    "gradient_start": "#85c9ef",
+    "gradient_end": "#3674ff",
+    "code": "",
+    "title_color": "#000000",
+    "start_at": null,
+    "end_at": null,
+    "products_count": 76,
+    "is_advert": true,
+    "advert_disclaimer": "ООО «Агроторг»\nИНН 7825706086",
+    "advertiser_info_link": "",
+    "products": [],
+    "preview_data": [
+      {
+        "id": 1630,
+        "name": "Порадуйте близких сладкими подарками",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 14,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 4167605,
+            "name": "Шоколад Alpen Gold Oreo Нежная Клубника с клубничной начинкой и кусочками печенья 90г",
+            "image_small": "https://photos.okolo.app/product/1410914-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "125.99",
+              "price_discount": "59.99",
+              "discount": "52"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 14559
+          },
+          {
+            "plu": 4175312,
+            "name": "Сладкий подарок Milka 260г",
+            "image_small": "https://photos.okolo.app/product/1411965-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "503.99",
+              "price_discount": "279.99",
+              "discount": "44"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 1240
+          },
+          {
+            "plu": 4167603,
+            "name": "Шоколад Alpen Gold Черничная поляна с черничной начинкой и кусочками печенья молочный 90г",
+            "image_small": "https://photos.okolo.app/product/1410906-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "125.99",
+              "price_discount": "59.99",
+              "discount": "52"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 37011
+          },
+          {
+            "plu": 4167582,
+            "name": "Пирожное Milka бисквитное с шоколадной начинкой + двухслойное с кусочками шоколада 126г",
+            "image_small": "https://photos.okolo.app/product/1411964-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "289.99",
+              "price_discount": "219.99",
+              "discount": "24"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 672
+          },
+          {
+            "plu": 4248919,
+            "name": "Сладкий подарок Медвежонок Барни, Picnic, Oreo Зимнее Ассорти 272г",
+            "image_small": "https://photos.okolo.app/product/1479725-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "479.99",
+              "price_discount": "339.99",
+              "discount": "29"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": null,
+            "rates_count_in_period": 0
+          }
+        ]
+      },
+      {
+        "id": 1631,
+        "name": "Покупай со скидками",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 20,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 3632899,
+            "name": "Печенье Belvita Утреннее злаки-какао-йогуртовая начинка 253г",
+            "image_small": "https://photos.okolo.app/product/1183144-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "179.99",
+              "price_discount": "139.99",
+              "discount": "22"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 3079
+          },
+          {
+            "plu": 3612240,
+            "name": "Жевательная резинка Dirol Colors XXL ассорти мятных вкусов без сахара 19г",
+            "image_small": "https://photos.okolo.app/product/1180039-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "49.49",
+              "price_discount": "39.99",
+              "discount": "19"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": null,
+            "rates_count_in_period": 0
+          },
+          {
+            "plu": 3498891,
+            "name": "Леденцы HALLS со вкусом меда и лимона 25г",
+            "image_small": "https://photos.okolo.app/product/1176763-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "48.99",
+              "price_discount": "39.99",
+              "discount": "18"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 16293
+          },
+          {
+            "plu": 3640618,
+            "name": "Печенье Oreo с какао и начинкой шоколад 95г",
+            "image_small": "https://photos.okolo.app/product/1184502-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "84.99",
+              "price_discount": "69.99",
+              "discount": "18"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 4057
+          },
+          {
+            "plu": 3681277,
+            "name": "Шоколад Milka с молочной и карамельными начинками и обжаренным цельным фундуком молочный 300г",
+            "image_small": "https://photos.okolo.app/product/1190456-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "399.99",
+              "price_discount": "299.99",
+              "discount": "25"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 8660
+          }
+        ]
+      },
+      {
+        "id": 1632,
+        "name": "Попробуй нежность на вкус с Milka",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 18,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 3689776,
+            "name": "Шоколад Milka Sweet Winter белый и молочный в виде ёлочек 100г",
+            "image_small": "https://photos.okolo.app/product/1191863-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "197.99",
+              "price_discount": "89.99",
+              "discount": "55"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.94,
+            "rates_count_in_period": 4310
+          },
+          {
+            "plu": 4167582,
+            "name": "Пирожное Milka бисквитное с шоколадной начинкой + двухслойное с кусочками шоколада 126г",
+            "image_small": "https://photos.okolo.app/product/1411964-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "289.99",
+              "price_discount": "219.99",
+              "discount": "24"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 672
+          },
+          {
+            "plu": 4109511,
+            "name": "Шоколад молочный Milka с цельным миндалём 85г",
+            "image_small": "https://photos.okolo.app/product/1210439-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "104.99",
+              "price_discount": "89.99",
+              "discount": "14"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 14109
+          },
+          {
+            "plu": 4109510,
+            "name": "Шоколад Milka с фундуком молочный 85г",
+            "image_small": "https://photos.okolo.app/product/1210438-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "104.99",
+              "price_discount": "89.99",
+              "discount": "14"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 3540
+          },
+          {
+            "plu": 4109507,
+            "name": "Шоколад молочный Milka 85г",
+            "image_small": "https://photos.okolo.app/product/1210436-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "104.99",
+              "price_discount": "89.99",
+              "discount": "14"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 12053
+          }
+        ]
+      },
+      {
+        "id": 1636,
+        "name": "В школу с Барни",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 8,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 4248919,
+            "name": "Сладкий подарок Медвежонок Барни, Picnic, Oreo Зимнее Ассорти 272г",
+            "image_small": "https://photos.okolo.app/product/1479725-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "479.99",
+              "price_discount": "339.99",
+              "discount": "29"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": null,
+            "rates_count_in_period": 0
+          },
+          {
+            "plu": 3358963,
+            "name": "Пирожное бисквитное Медвежонок Барни банан-йогурт 150 г",
+            "image_small": "https://photos.okolo.app/product/1166738-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "159.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 6707
+          },
+          {
+            "plu": 3603069,
+            "name": "Пирожное бисквитное Медвежонок Барни вареная сгущенка 150г",
+            "image_small": "https://photos.okolo.app/product/1177919-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "159.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 5950
+          },
+          {
+            "plu": 4172089,
+            "name": "Пирожное Медвежонок Барни бисквитное с апельсиновой начинкой и корицей 150г",
+            "image_small": "https://photos.okolo.app/product/1407496-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "159.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.9,
+            "rates_count_in_period": 1460
+          },
+          {
+            "plu": 3276703,
+            "name": "Пирожное бисквитное Медвежонок Барни молочная начинка 150г",
+            "image_small": "https://photos.okolo.app/product/1164953-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "159.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 7880
+          }
+        ]
+      },
+      {
+        "id": 1635,
+        "name": "Попробуй разнообразие вкусов Alpen Gold",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 13,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 4053537,
+            "name": "Шоколад Alpen Gold Max Fan молочный Манго, ананас, маракуйя, взрывная карамель, шипучие шарики  150г",
+            "image_small": "https://photos.okolo.app/product/1204707-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "159.99",
+              "price_discount": "139.99",
+              "discount": "13"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 5293
+          },
+          {
+            "plu": 4053597,
+            "name": "Шоколад молочный Alpen Gold 85г",
+            "image_small": "https://photos.okolo.app/product/1204710-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "69.99",
+              "price_discount": "59.99",
+              "discount": "14"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 30956
+          },
+          {
+            "plu": 4167603,
+            "name": "Шоколад Alpen Gold Черничная поляна с черничной начинкой и кусочками печенья молочный 90г",
+            "image_small": "https://photos.okolo.app/product/1410906-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "125.99",
+              "price_discount": "59.99",
+              "discount": "52"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 37011
+          },
+          {
+            "plu": 4167602,
+            "name": "Шоколад Alpen Gold Max Fun Зимний ягодный микс белый 150г",
+            "image_small": "https://photos.okolo.app/product/1422873-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "233.99",
+              "price_discount": "129.99",
+              "discount": "44"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 1153
+          },
+          {
+            "plu": 4158032,
+            "name": "Шоколад Alpen Gold Oreo с начинкой со вкусом ванили и кусочками печенья молочный 90г",
+            "image_small": "https://photos.okolo.app/product/1393472-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "74.99",
+              "price_discount": "64.99",
+              "discount": "13"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 5760
+          }
+        ]
+      },
+      {
+        "id": 1633,
+        "name": "Oreo и Юбилейное",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 10,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 4027701,
+            "name": "Печенье Юбилейное молочное с глазурью 232г",
+            "image_small": "https://photos.okolo.app/product/1201992-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "119.99",
+              "price_discount": "89.99",
+              "discount": "25"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 14655
+          },
+          {
+            "plu": 3640618,
+            "name": "Печенье Oreo с какао и начинкой шоколад 95г",
+            "image_small": "https://photos.okolo.app/product/1184502-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "84.99",
+              "price_discount": "69.99",
+              "discount": "18"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 4057
+          },
+          {
+            "plu": 4246933,
+            "name": "Сладкий подарок Oreo Ассорти печенья Шоколад, клубника, оригинальное 190г",
+            "image_small": "https://photos.okolo.app/product/1479721-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "229.99",
+              "price_discount": "169.99",
+              "discount": "26"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": null,
+            "rates_count_in_period": 0
+          },
+          {
+            "plu": 4102088,
+            "name": "Мини-кексы Юбилейное с кусочками молочного шоколада 140г",
+            "image_small": "https://photos.okolo.app/product/1209500-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "129.99",
+              "price_discount": "109.99",
+              "discount": "15"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 7105
+          },
+          {
+            "plu": 3472180,
+            "name": "Печенье Юбилейное молочное витаминизированное с глазурью 116г",
+            "image_small": "https://photos.okolo.app/product/1174816-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "63.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 11508
+          }
+        ]
+      },
+      {
+        "id": 1637,
+        "name": "Возьми с собой Picnic и Tuc",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 5,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 3442578,
+            "name": "Батончик Picnic BIg с арахисом и изюмом 76г",
+            "image_small": "https://photos.okolo.app/product/1172455-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "77.99",
+              "price_discount": "44.9",
+              "discount": "42"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 113477
+          },
+          {
+            "plu": 3490862,
+            "name": "Крекер Tuc со вкусом пиццы, 100г",
+            "image_small": "https://photos.okolo.app/product/1176255-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "83.49",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.9,
+            "rates_count_in_period": 12594
+          },
+          {
+            "plu": 3329546,
+            "name": "Крекер Tuc Original с солью 100г",
+            "image_small": "https://photos.okolo.app/product/1165768-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "71.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.9,
+            "rates_count_in_period": 2210
+          },
+          {
+            "plu": 3400349,
+            "name": "Крекер Tuc со сметаной и луком, 100г",
+            "image_small": "https://photos.okolo.app/product/1168844-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "71.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 18892
+          },
+          {
+            "plu": 3419777,
+            "name": "Батончик шоколадный Picnic грецкий орех, 52г",
+            "image_small": "https://photos.okolo.app/product/1170222-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "58.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 14291
+          }
+        ]
+      },
+      {
+        "id": 1634,
+        "name": "Здоровый перекус с Belvita",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 4,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 3632839,
+            "name": "Печенье Belvita Утреннее злаки-йогуртовая начинка, 253г",
+            "image_small": "https://photos.okolo.app/product/1183139-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "185.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 6759
+          },
+          {
+            "plu": 3632837,
+            "name": "Печенье Belvita Утреннее витаминизированное фундук-мёд, 225г",
+            "image_small": "https://photos.okolo.app/product/1183137-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "129.99",
+              "price_discount": null,
+              "discount": null
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 4404
+          },
+          {
+            "plu": 3632899,
+            "name": "Печенье Belvita Утреннее злаки-какао-йогуртовая начинка 253г",
+            "image_small": "https://photos.okolo.app/product/1183144-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "179.99",
+              "price_discount": "139.99",
+              "discount": "22"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 3079
+          },
+          {
+            "plu": 3632838,
+            "name": "Печенье Belvita Утреннее витаминизированное со злаковыми хлопьями, 225г",
+            "image_small": "https://photos.okolo.app/product/1183138-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "139.99",
+              "price_discount": "109.99",
+              "discount": "21"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.93,
+            "rates_count_in_period": 7941
+          }
+        ]
+      },
+      {
+        "id": 1638,
+        "name": "Освежись с Dirol и Halls",
+        "type": "category",
+        "description": "",
+        "subtitle": null,
+        "image": null,
+        "big_image_320": null,
+        "big_image_768": null,
+        "big_image_1280": null,
+        "web_image": null,
+        "web_image_back": null,
+        "minimum_rates_count_web": null,
+        "minimum_rates_count_mobile": null,
+        "top_products_number_web": null,
+        "top_products_number_mobile": null,
+        "gradient_start": "#F6726A",
+        "gradient_end": "#C64E46",
+        "code": "",
+        "title_color": "#000000",
+        "start_at": null,
+        "end_at": null,
+        "products_count": 13,
+        "is_advert": null,
+        "advert_disclaimer": null,
+        "advertiser_info_link": null,
+        "products": [
+          {
+            "plu": 3641933,
+            "name": "Жевательная резинка Dirol White Мята 13.6г",
+            "image_small": "https://photos.okolo.app/product/1184757-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "35.19",
+              "price_discount": "29.99",
+              "discount": "15"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 13375
+          },
+          {
+            "plu": 3680626,
+            "name": "Конфеты HALLS Mini Mints со вкусом мяты 12.5г",
+            "image_small": "https://photos.okolo.app/product/1190333-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "48.99",
+              "price_discount": "34.99",
+              "discount": "29"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 7838
+          },
+          {
+            "plu": 3498787,
+            "name": "Жевательная резинка Dirol X-Fresh Ледяной мандарин без сахара 16г",
+            "image_small": "https://photos.okolo.app/product/1176762-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "49.49",
+              "price_discount": "39.99",
+              "discount": "19"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 9659
+          },
+          {
+            "plu": 3257582,
+            "name": "Жевательная резинка Dirol Мята без сахара 13.6г",
+            "image_small": "https://photos.okolo.app/product/1164582-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "35.19",
+              "price_discount": "29.99",
+              "discount": "15"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.92,
+            "rates_count_in_period": 11946
+          },
+          {
+            "plu": 3498786,
+            "name": "Жевательная резинка Dirol X-Fresh Арбузный лёд без сахара 16г",
+            "image_small": "https://photos.okolo.app/product/1176761-main/320x320.jpeg",
+            "is_new": false,
+            "prices": {
+              "price_regular": "49.49",
+              "price_discount": "39.99",
+              "discount": "19"
+            },
+            "promo": null,
+            "uom": "шт",
+            "step": "1.0",
+            "average_rating": 4.91,
+            "rates_count_in_period": 11121
+          }
+        ]
+      }
+    ]
+  }
+]
