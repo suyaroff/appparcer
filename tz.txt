@@ -1,0 +1,17 @@
+Проводить парсинг необходимо следующих данных: Цена, Наличие, Бренд, Категория, ID. Единица измерения, Количество в упаковке.
+В приложениях каталог товаров выводится без логина и пароля, логиниться не обязательно.
+
+Парсить приложения постоянно не нужно, достаточно написать код самого парсера для сбора данных.
+Каждое приложение оцениваем по отдельности.
+
+Пятёрочка
+https://play.google.com/store/apps/details?id=ru.pyaterochka.app.browser&pli=1
+
+farmlend.ru
+https://play.google.com/store/apps/details?id=com.farmlend.android
+
+Аптеки Плюс
+https://play.google.com/store/apps/details?id=ru.apteki.plus
+
+СберМегаМаркет для Android
+https://sbermegamarket.ru/info/download-app/
