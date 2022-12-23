@@ -1,0 +1,32 @@
+### Коды регионов
+https://aptekiplus.ru/api/v2/mobile/handbook/get-regions
+
+### Список аптек в МСК
+https://aptekiplus.ru/api/v2/mobile/handbook/get-pharmacies?region_id=77
+
+### Хиты Аптеки
+https://aptekiplus.ru/api/v2/mobile/market/get-hit-market?pharmacy=12064&region_id=77
+
+### Аптеки в ЕКБ
+https://aptekiplus.ru/api/v2/mobile/handbook/get-pharmacies?region_id=66
+
+### Корзина
+https://aptekiplus.ru/api/v2/mobile/cart/get-cart?region_id=77
+
+### Категории
+https://aptekiplus.ru/api/v2/mobile/market/get-categories
+
+### Поиск https://aptekiplus.ru/api/v2/mobile/market/search?page=1&pharmacy_id=10370&word=Корсет&region_id=77&limit=50
+https://aptekiplus.ru/api/v2/mobile/market/search?page=1&pharmacy_id=10370&word=Корсет&region_id=77&limit=50
+
+### Товары в категории 
+https://aptekiplus.ru/api/v2/mobile/market/products-in-category?pharmacy=10370&region_id=77&mode=1&category=9166&limit=1&item_count=10&stock=0&sort=1
+
+### Товар
+https://aptekiplus.ru/api/v2/mobile/market/product-detail?pharmacy=10370&region_id=77&item_id=233372
+
+### Цены в других аптеках
+https://aptekiplus.ru/api/v2/mobile/market/price-in-other-pharmacies?pharmacy_id=10370&region_id=77&area_id=77&item_id=239436
+
+###
+https://aptekiplus.ru/api/v2/mobile/market/products-in-category?pharmacy=10370&region_id=77&mode=1&category=7822&limit=1&item_count=20&stock=0&sort=1&min=0.0&max=500000.0&formats=

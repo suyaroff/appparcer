@@ -1,0 +1,1195 @@
+{
+  "data": {
+    "result": [
+      {
+        "id": 7651,
+        "name": "Лекарства и БАДы",
+        "parent": 3,
+        "order": 0,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7813,
+        "name": "Аквариумы и аксессуары",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7804,
+        "name": "Аксессуары для красоты и макияжа",
+        "parent": 7653,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7825,
+        "name": "Аксессуары для спорта",
+        "parent": 7816,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7661,
+        "name": "Аллергия",
+        "parent": 7651,
+        "order": 32,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7708,
+        "name": "Аппараты для лечения",
+        "parent": 7654,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7657,
+        "name": "Аптечки",
+        "parent": 3,
+        "order": 6,
+        "level": 1,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7768,
+        "name": "Безопасность ребенка",
+        "parent": 7652,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7747,
+        "name": "Бинты эластичные",
+        "parent": 7655,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8152,
+        "name": "Бритвы и триммеры",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7744,
+        "name": "Бытовая химия",
+        "parent": 3,
+        "order": 11,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7690,
+        "name": "Венозная  недостаточность",
+        "parent": 7651,
+        "order": 3,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8482,
+        "name": "Весы напольные",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9172,
+        "name": "Ветаптека",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7684,
+        "name": "Витамины и микроэлементы",
+        "parent": 7651,
+        "order": 9,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7729,
+        "name": "Витамины красоты",
+        "parent": 7653,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7671,
+        "name": "Вредные привычки",
+        "parent": 7651,
+        "order": 22,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7717,
+        "name": "Выпадение волос",
+        "parent": 7653,
+        "order": 4,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7678,
+        "name": "Геморрой",
+        "parent": 7651,
+        "order": 15,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7718,
+        "name": "Гигиенические средства",
+        "parent": 7653,
+        "order": 3,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7665,
+        "name": "Гинекология",
+        "parent": 7651,
+        "order": 28,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7707,
+        "name": "Глюкометры",
+        "parent": 7654,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8818,
+        "name": "Горки, песочницы, бассейны",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7788,
+        "name": "Декоративная косметика",
+        "parent": 7653,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7700,
+        "name": "Депиляция",
+        "parent": 7653,
+        "order": 11,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7712,
+        "name": "Детская гигиена",
+        "parent": 7652,
+        "order": 2,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7693,
+        "name": "Детская косметика",
+        "parent": 7652,
+        "order": 7,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7694,
+        "name": "Детские аксессуары",
+        "parent": 7652,
+        "order": 6,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8827,
+        "name": "Детские развивающие игрушки",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9163,
+        "name": "Детский транспорт",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7695,
+        "name": "Детское питание",
+        "parent": 7652,
+        "order": 5,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7726,
+        "name": "Диагностика ЖКТ",
+        "parent": 7658,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7667,
+        "name": "Диетология",
+        "parent": 7651,
+        "order": 26,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9191,
+        "name": "Для бани и сауны",
+        "parent": 7816,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7696,
+        "name": "Для беременных  и кормящих",
+        "parent": 7652,
+        "order": 4,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8155,
+        "name": "Для бритья и стрижки волос",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7753,
+        "name": "Для ванной",
+        "parent": 7744,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7783,
+        "name": "Для грызунов",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7780,
+        "name": "Для кошек",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7756,
+        "name": "Для кухни",
+        "parent": 7744,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7807,
+        "name": "Для маникюра и педикюра",
+        "parent": 7653,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7658,
+        "name": "Для Мед. Обследований",
+        "parent": 3,
+        "order": 7,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7709,
+        "name": "Для посещения ЛПУ",
+        "parent": 7656,
+        "order": 4,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7725,
+        "name": "Для потенции",
+        "parent": 7659,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7789,
+        "name": "Для птиц",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8821,
+        "name": "Для самых маленьких",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7777,
+        "name": "Для собак",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7750,
+        "name": "Для стирки",
+        "parent": 7744,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7762,
+        "name": "Для уборки",
+        "parent": 7744,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9181,
+        "name": "Дом и сад",
+        "parent": 3,
+        "order": 0,
+        "level": 1,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7679,
+        "name": "Дыхательная система",
+        "parent": 7651,
+        "order": 14,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7662,
+        "name": "Желудочно-кишечные заболевания",
+        "parent": 7651,
+        "order": 31,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7705,
+        "name": "Женская гигиена",
+        "parent": 7653,
+        "order": 6,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7677,
+        "name": "Заболевания глаз",
+        "parent": 7651,
+        "order": 16,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7664,
+        "name": "Заболевания крови",
+        "parent": 7651,
+        "order": 29,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7774,
+        "name": "Зоотовары",
+        "parent": 3,
+        "order": 10,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7741,
+        "name": "Игрушки",
+        "parent": 3,
+        "order": 9,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 9176,
+        "name": "Игрушки для купания",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7668,
+        "name": "Иммунитет",
+        "parent": 7651,
+        "order": 24,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7723,
+        "name": "Интим-комфорт",
+        "parent": 7659,
+        "order": 2,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7659,
+        "name": "Интимные товары",
+        "parent": 3,
+        "order": 8,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7669,
+        "name": "Инфекционные заболевания",
+        "parent": 7651,
+        "order": 25,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7819,
+        "name": "Йога, пилатес",
+        "parent": 7816,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7683,
+        "name": "Кашель",
+        "parent": 7651,
+        "order": 10,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9166,
+        "name": "Конструкторы",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7828,
+        "name": "Контактные линзы",
+        "parent": 3,
+        "order": 0,
+        "level": 1,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7724,
+        "name": "Контрацепция (местная)",
+        "parent": 7659,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8146,
+        "name": "Косметические аппараты и аксессуары",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8815,
+        "name": "Косметология",
+        "parent": 7653,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7653,
+        "name": "Красота и Гигиена",
+        "parent": 3,
+        "order": 2,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7765,
+        "name": "Крещение ребенка",
+        "parent": 7652,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7715,
+        "name": "Кровотечения",
+        "parent": 7651,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7795,
+        "name": "Лежанки, домики",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7719,
+        "name": "Лечебный трикотаж",
+        "parent": 7655,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7676,
+        "name": "Лор-заболевания",
+        "parent": 7651,
+        "order": 17,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 3,
+        "name": "Магазин",
+        "parent": 0,
+        "order": 0,
+        "level": 0,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7652,
+        "name": "Мама и малыш",
+        "parent": 3,
+        "order": 1,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 8479,
+        "name": "Массажеры",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7771,
+        "name": "Мед.приборы",
+        "parent": 7654,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7654,
+        "name": "Медицинская техника",
+        "parent": 3,
+        "order": 3,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7672,
+        "name": "Мозговое кровообращение",
+        "parent": 7651,
+        "order": 21,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7689,
+        "name": "Мочеполовая система",
+        "parent": 7651,
+        "order": 4,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9169,
+        "name": "Музыкальные игрушки",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 9186,
+        "name": "Мячи и насосы",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8824,
+        "name": "Неваляшки, юлы",
+        "parent": 7741,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7687,
+        "name": "Обезболивающие",
+        "parent": 7651,
+        "order": 6,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7686,
+        "name": "Общеукрепляющие и тонизирующие",
+        "parent": 7651,
+        "order": 7,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7675,
+        "name": "Онкология",
+        "parent": 7651,
+        "order": 18,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7720,
+        "name": "Ортопедические изделия",
+        "parent": 7655,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7655,
+        "name": "Ортопедия и лечебный трикотаж",
+        "parent": 3,
+        "order": 4,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7681,
+        "name": "От насекомых",
+        "parent": 7651,
+        "order": 12,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7698,
+        "name": "От пота",
+        "parent": 7653,
+        "order": 13,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7810,
+        "name": "Парфюмерия",
+        "parent": 7653,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7710,
+        "name": "Перевязочные средства",
+        "parent": 7656,
+        "order": 3,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7798,
+        "name": "Переноски",
+        "parent": 7774,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7663,
+        "name": "Печень и желчный пузырь",
+        "parent": 7651,
+        "order": 30,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7711,
+        "name": "Пластыри",
+        "parent": 7656,
+        "order": 2,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7713,
+        "name": "Подавление лактации",
+        "parent": 7652,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7792,
+        "name": "Подготовка к обследованию (очищение кишечника)",
+        "parent": 7658,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7697,
+        "name": "Подгузники",
+        "parent": 7652,
+        "order": 3,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7666,
+        "name": "Поражения кожи",
+        "parent": 7651,
+        "order": 27,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8149,
+        "name": "Приборы для укладки волос",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7714,
+        "name": "Прорезывание зубов",
+        "parent": 7652,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7685,
+        "name": "Простуда, грипп",
+        "parent": 7651,
+        "order": 8,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7728,
+        "name": "Против перхоти",
+        "parent": 7653,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7660,
+        "name": "Психические расстройства",
+        "parent": 7651,
+        "order": 33,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7680,
+        "name": "Реанимация",
+        "parent": 7651,
+        "order": 13,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7716,
+        "name": "Редкие лекарства",
+        "parent": 7651,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7670,
+        "name": "Сердце и сосуды",
+        "parent": 7651,
+        "order": 23,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7699,
+        "name": "Солнцезащитные средства",
+        "parent": 7653,
+        "order": 12,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7822,
+        "name": "Спортивное питание",
+        "parent": 7816,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7816,
+        "name": "Спортивные товары",
+        "parent": 3,
+        "order": 0,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7682,
+        "name": "Стоматология (без ухода за полостью рта)",
+        "parent": 7651,
+        "order": 11,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7673,
+        "name": "Суставы и позвоночник",
+        "parent": 7651,
+        "order": 20,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7735,
+        "name": "Тест-полоски, ланцеты для глюкометров",
+        "parent": 7654,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7801,
+        "name": "Техника для красоты",
+        "parent": 3,
+        "order": 0,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7738,
+        "name": "Тонометры",
+        "parent": 7654,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7688,
+        "name": "Травмы, ушибы, растяжения",
+        "parent": 7651,
+        "order": 5,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7692,
+        "name": "Улучшение лактации",
+        "parent": 7652,
+        "order": 8,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7674,
+        "name": "Успокаивающие",
+        "parent": 7651,
+        "order": 19,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7722,
+        "name": "Уход за больными",
+        "parent": 7656,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7656,
+        "name": "Уход за больными",
+        "parent": 3,
+        "order": 5,
+        "level": 1,
+        "module": 71,
+        "child_check": 1
+      },
+      {
+        "id": 7727,
+        "name": "Уход за волосами",
+        "parent": 7653,
+        "order": 2,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7701,
+        "name": "Уход за лицом",
+        "parent": 7653,
+        "order": 10,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7702,
+        "name": "Уход за ногами",
+        "parent": 7653,
+        "order": 9,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7706,
+        "name": "Уход за полостью рта",
+        "parent": 7653,
+        "order": 5,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7703,
+        "name": "Уход за руками и ногтями",
+        "parent": 7653,
+        "order": 8,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7704,
+        "name": "Уход за телом",
+        "parent": 7653,
+        "order": 7,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7759,
+        "name": "Уход за техникой",
+        "parent": 7744,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7721,
+        "name": "Шприцы, системы для растворов",
+        "parent": 7656,
+        "order": 1,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 7691,
+        "name": "Эндокринная система",
+        "parent": 7651,
+        "order": 2,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      },
+      {
+        "id": 8158,
+        "name": "Эпиляторы",
+        "parent": 7801,
+        "order": 0,
+        "level": 2,
+        "module": 71,
+        "child_check": 0
+      }
+    ]
+  },
+  "status": "success"
+}
