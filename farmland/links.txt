@@ -1,0 +1,12 @@
+https://api.farmlend.ru/
+https://api.farmlend.ru/v2
+https://api.farmlend.ru/v2/auth
+https://api.farmlend.ru/v2/auth/first-sign-on-launch
+https://api.farmlend.ru/v2/banner
+https://api.farmlend.ru/v2/delivery
+https://api.farmlend.ru/v2/delivery/check
+https://api.farmlend.ru/v2/settings
+https://api.farmlend.ru/v2/settings/update-device-token
+https://api.farmlend.ru/v2/settings/update-device-token?location=218&token=&deviceToken=dkTXRnIBQF6FcikrEBphRK:APA91bHYxnKOYuvChkSG79gppnLfcvA7SWobs-d2KJULy6fOiBrimnGjI5jURgA3e-cm3I9URgiLE0sfii4zUadNTk6KRDvinekPYi1bDtzL5vGfVbo9KdjEkzc0jKHSgikjJGN6Shxd&type=3
+https://api.farmlend.ru/v2/version
+https://api.farmlend.ru/v2/version?type=3&version=198&token=
