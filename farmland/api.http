@@ -78,6 +78,36 @@ Host: api.farmlend.ru
 Connection: close
 Accept-Encoding: gzip, deflate
 
+### Список регионов
+GET /v2/region?token= HTTP/1.1
+hash: e1aff0eff76926ddc0a0d59b49d84e90
+timestamp: 1672395829
+app-version: 198
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0; Android SDK built for x86 Build/MASTER)
+Host: api.farmlend.ru
+Connection: close
+Accept-Encoding: gzip, deflate
+
+### города в регионе Свердловская область 7
+GET /v2/region/7?token= HTTP/1.1
+hash: 9ffc2d2979964c935dd7864f6b9a1a8f
+timestamp: 1672395897
+app-version: 198
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0; Android SDK built for x86 Build/MASTER)
+Host: api.farmlend.ru
+Connection: close
+Accept-Encoding: gzip, deflate
+
+### Аптеки в городе Екб
+GET /v2/drugstore?location=112&token= HTTP/1.1
+hash: 76ebb2de374d5eabd545c57e6559b5c2
+timestamp: 1672395955
+app-version: 198
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0; Android SDK built for x86 Build/MASTER)
+Host: api.farmlend.ru
+Connection: close
+Accept-Encoding: gzip, deflate
+
 
 
 
